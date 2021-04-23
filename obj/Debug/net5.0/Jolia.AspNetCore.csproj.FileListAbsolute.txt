@@ -1,0 +1,12 @@
+D:\Work\Jolia\Output\net5.0\Jolia.AspNetCore.deps.json
+D:\Work\Jolia\Output\net5.0\Jolia.AspNetCore.dll
+D:\Work\Jolia\Output\net5.0\ref\Jolia.AspNetCore.dll
+D:\Work\Jolia\Output\net5.0\Jolia.AspNetCore.pdb
+D:\Work\Jolia\Jolia.AspNetCore\obj\Debug\net5.0\Jolia.AspNetCore.csprojAssemblyReference.cache
+D:\Work\Jolia\Jolia.AspNetCore\obj\Debug\net5.0\Jolia.AspNetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Jolia\Jolia.AspNetCore\obj\Debug\net5.0\Jolia.AspNetCore.AssemblyInfoInputs.cache
+D:\Work\Jolia\Jolia.AspNetCore\obj\Debug\net5.0\Jolia.AspNetCore.AssemblyInfo.cs
+D:\Work\Jolia\Jolia.AspNetCore\obj\Debug\net5.0\Jolia.AspNetCore.csproj.CoreCompileInputs.cache
+D:\Work\Jolia\Jolia.AspNetCore\obj\Debug\net5.0\Jolia.AspNetCore.dll
+D:\Work\Jolia\Jolia.AspNetCore\obj\Debug\net5.0\ref\Jolia.AspNetCore.dll
+D:\Work\Jolia\Jolia.AspNetCore\obj\Debug\net5.0\Jolia.AspNetCore.pdb

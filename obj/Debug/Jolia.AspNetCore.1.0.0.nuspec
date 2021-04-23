@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Jolia.AspNetCore</id>
+    <version>1.0.0</version>
+    <authors>Jolia.AspNetCore</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Jolia.Core.Standard" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Authentication.JwtBearer" version="5.0.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Identity.UI" version="5.0.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.WebApiCompatShim" version="2.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Work\Jolia\Output\net5.0\Jolia.AspNetCore.dll" target="lib\net5.0\Jolia.AspNetCore.dll" />
+  </files>
+</package>
